@@ -48,7 +48,7 @@ Predicts which teams advance in the UEFA Champions League 2025-26 knockout playo
 | Dortmund vs Atalanta | Atalanta  | Atlanta |
 
 
-Accuracy: 6/8 (75%) 
+## Accuracy: 6/8 (75%) 
 
 
 ## Setup
