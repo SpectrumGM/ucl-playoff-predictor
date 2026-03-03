@@ -33,6 +33,24 @@ Predicts which teams advance in the UEFA Champions League 2025-26 knockout playo
 | Olympiacos vs Leverkusen | Leverkusen advances | 61% |
 | Dortmund vs Atalanta | Atalanta advances | 55% |
 
+
+## Actual Results 
+
+| Match | Predicted Result  | Actual Result |
+|-------|-----------|------------|
+| Monaco vs PSG | PSG  | PSG  |
+| Qarabağ vs Newcastle | Newcastle  | Newcastle |
+| Bodø/Glimt vs Inter | Inter  | Bodø/Glimt |
+| Club Brugge vs Atlético | Atlético  | Atlético |
+| Galatasaray vs Juventus | Juventus  | Galatasaray |
+| Benfica vs Real Madrid | Real Madrid  | Real Madrid |
+| Olympiacos vs Leverkusen | Leverkusen  | Leverkusen |
+| Dortmund vs Atalanta | Atalanta  | Atlanta |
+
+
+Accuracy: 6/8 (75%) 
+
+
 ## Setup
 
 ```
